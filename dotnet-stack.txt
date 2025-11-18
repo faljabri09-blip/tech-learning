@@ -1,0 +1,21 @@
+dotnet stack frontend
+The .NET stack offers several options for frontend development, allowing developers to choose based on project requirements and preferences.
+
+The .NET stack for backend development primarily revolves around the following components:
+1. Programming Language:
+C#: This is the core language used for .NET backend development. It is a modern, object-oriented, and type-safe language developed by Microsoft.
+2. Framework:
+ASP.NET Core: This is the primary framework for building web applications and APIs with .NET. It's open-source, cross-platform, and designed for high performance and scalability. Within ASP.NET Core, you'll commonly use:
+ASP.NET Core Web API: For building RESTful APIs to serve data to client applications (frontend, mobile apps, etc.).
+ASP.NET Core MVC: For building traditional server-rendered web applications with a Model-View-Controller architectural pattern.
+3. Data Access:
+Entity Framework Core (EF Core): This is an object-relational mapper (ORM) that simplifies database interactions by allowing developers to work with C# objects instead of raw SQL queries. It supports various databases like SQL Server, PostgreSQL, MySQL, SQLite, and more.
+4. Development Environment:
+Visual Studio: The comprehensive Integrated Development Environment (IDE) from Microsoft, offering powerful tools for coding, debugging, and deploying .NET applications.
+Visual Studio Code: A lightweight, cross-platform code editor with extensive extensions for .NET development.
+5. Other Key Technologies & Concepts:
+
+
+DB
+The term ".NET stack DB" refers to the database component within a .NET technology stack used for building applications. While .NET itself 
+is a platform and framework, it integrates seamlessly with various database systems.

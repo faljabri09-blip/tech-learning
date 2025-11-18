@@ -1,0 +1,18 @@
+The MERN stack frontend 
+
+is the client-side, user-facing part of a full-stack MERN application, built using React. It's responsible for 
+creating dynamic and responsive user interfaces by using JavaScript to build components, handle state, and connect to the backend through 
+a REST API to perform CRUD operations like fetching, adding, editing, and deleting data.
+
+
+
+The MERN stack backend
+refers to the server-side components of a web application built using the MERN stack. MERN is an acronym for MongoDB, Express.js, React, 
+and Node.js. 
+
+
+The "DB" in the MERN 
+stack refers to MongoDB.The MERN stack is an acronym for a collection of JavaScript-based technologies used for building full-stack web 
+applications
+
+ 
