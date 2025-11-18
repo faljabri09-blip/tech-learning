@@ -1,0 +1,10 @@
+1.System Software
+Operating System (like Windows and Linux)
+Language Processor
+Device Driver
+
+
+2.Application Software
+General Purpose Software
+Customize Software
+Utility Software
