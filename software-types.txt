@@ -8,3 +8,8 @@ Device Driver
 General Purpose Software
 Customize Software
 Utility Software
+
+A web application is software that runs in a web browser, accessible over the internet without requiring installation on a user's device.
+It allows users to interact with data and perform tasks by sending and receiving information between the browser and a remote server. 
+Examples include email, online shopping carts, streaming services, and collaborative tools like Google Docs or Slack. 
+ 
