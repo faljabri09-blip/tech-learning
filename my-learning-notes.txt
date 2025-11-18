@@ -1,0 +1,2 @@
+In Git, "comments" primarily refer to commit messages, which are human-readable explanations associated with each commit. 
+These messages serve as documentation for the changes introduced in that specific commit.
