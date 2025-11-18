@@ -1,0 +1,20 @@
+Node.js
+
+Node.js is an open-source and cross-platform JavaScript runtime environment. It is a popular tool for almost any kind of project!
+
+Node.js runs the V8 JavaScript engine, the core of Google Chrome, outside of the browser. This allows Node.js to be very performant.
+
+
+Python
+
+Python is a popular, high-level, and versatile programming language known for its readable syntax, making it ideal for beginners. 
+It is a general-purpose language used for a wide range of applications, including web development, data science, artificial intelligence, 
+and automation. Python's open-source nature and extensive library support allow developers to build and scale projects more efficiently.
+
+PHP
+
+PHP, which stands for PHP: Hypertext Preprocessor, is a widely-used open-source general-purpose scripting language primarily designed for 
+web development. It can be embedded directly into HTML.
+ 
+
+ 
