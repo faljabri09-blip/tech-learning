@@ -1,0 +1,21 @@
+MySQL
+
+MySQL is an open-source relational database management system (RDBMS) widely used for storing and managing data. It is developed, 
+distributed, and supported by Oracle Corporation.
+
+
+MongoDB
+
+MongoDB is an open-source, NoSQL document database used for modern applications, storing data in flexible, JSON-like documents instead of 
+traditional tables. It's known for its flexible schema, which allows for easier development and rapid changes, and its horizontal 
+scalability, which makes it suitable for handling large amounts of data across multiple systems.
+
+
+PostgreSQL
+
+PostgreSQL is a powerful, open-source, object-relational database management system known for its reliability, robustness, and performance.
+It is built on decades of development and uses SQL for queries while also supporting non-relational data like JSON, making it a versatile
+choice for applications ranging from simple websites to complex enterprise systems. Its features include strong data integrity, 
+extensibility, and a strong community backing.
+   
+ 
