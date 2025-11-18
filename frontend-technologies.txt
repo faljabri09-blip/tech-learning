@@ -18,3 +18,8 @@ JS
 JS is the common abbreviation for JavaScript, a high-level, interpreted programming language primarily known for its role in web 
 development.
  
+
+
+React/Vue
+React and Vue are both popular JavaScript tools used for building user interfaces (UIs) and single-page applications (SPAs), 
+though they differ in their classification and approach. 
