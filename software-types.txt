@@ -24,3 +24,10 @@ They allow users to perform specific tasks such as gaming, social networking, sh
 hardware and accessing the internet. Mobile apps are distinct from web applications because they are downloaded and installed onto the 
 device, optimized for touchscreens, and can leverage device-specific features like a camera or GPS.
  
+
+4) Desktop Applications section
+
+A desktop applications section refers to software programs that are installed and run directly on a user's personal computer or laptop,
+unlike web-based applications that run in a browser. They are used for a wide range of tasks, including productivity (like Microsoft Word)
+, entertainment (like video games), and utilities (like calendar apps). These applications can be launched from shortcuts on the desktop 
+or through the system's application menu. 
