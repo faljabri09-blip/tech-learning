@@ -1,3 +1,5 @@
+1)Software types
+
 1.System Software
 Operating System (like Windows and Linux)
 Language Processor
@@ -9,7 +11,16 @@ General Purpose Software
 Customize Software
 Utility Software
 
+2)web application section
+
 A web application is software that runs in a web browser, accessible over the internet without requiring installation on a user's device.
 It allows users to interact with data and perform tasks by sending and receiving information between the browser and a remote server. 
 Examples include email, online shopping carts, streaming services, and collaborative tools like Google Docs or Slack. 
+ 
+3)Mobile appliction section
+
+Mobile applications are software programs designed specifically for mobile devices like smartphones and tablets.
+They allow users to perform specific tasks such as gaming, social networking, shopping, or navigation by interacting with the device's 
+hardware and accessing the internet. Mobile apps are distinct from web applications because they are downloaded and installed onto the 
+device, optimized for touchscreens, and can leverage device-specific features like a camera or GPS.
  
