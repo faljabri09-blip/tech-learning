@@ -10,4 +10,12 @@ Front-end Development is the development or creation of a user interface using s
 of the user side where only user interaction will be counted. It consists of the interface where buttons, texts, alignments, etc are 
 involved and used by the user.
 
+
+Database section 
+A database is an organized collection of structured information, or data, typically stored electronically, that can be accessed, managed, 
+and updated using a database management system (DBMS). Databases are used for everything from simple record-keeping, like an address book,
+to powering complex applications and large-scale enterprise systems, and can store various data types including words, numbers, images, and 
+videos.
+ 
+
  
