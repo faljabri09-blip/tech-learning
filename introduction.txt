@@ -1,0 +1,3 @@
+learn about software development life cycle (SDLC) with the 6 phases analysis, design, development, testing, deployment and mantiance.
+learn how do work in each phases and who do this work inside each pases. Also, learn  about agile and waterfall and what deffernt between 
+them. Tha last topic about scrum prosses (Sprint) and how to applay in company.
