@@ -1,0 +1,4 @@
+Stack comparison
+can refer to two distinct concepts:
+Comparing the Stack data structure to other data structures (like a queue) or different implementations.
+Comparing different technology stacks (e.g., MERN vs. MEAN). 
